@@ -16,6 +16,11 @@ For people looking to get started using Selenium, please check out
 our [User Manual](https://selenium.dev/documentation/) for detailed examples and descriptions, and if you
 get stuck, there are several ways to [Get Help](https://www.selenium.dev/support/).
 
+## Contributors 
+ * Jack
+ * Jimmi
+ * Jhones
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/SeleniumHQ/selenium/blob/trunk/CONTRIBUTING.md)
