@@ -1,4 +1,4 @@
-# Selenium
+# MyFirst Selenium Project (Java)
 
 [![CI](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml/badge.svg?branch=trunk&event=schedule)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml)
 
