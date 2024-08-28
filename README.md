@@ -1,4 +1,4 @@
-# MyFirst Selenium Project (Java)
+# My First Selenium Project (Java)
 
 Selenium is an umbrella project encapsulating a variety of tools and
 libraries enabling web browser automation. Selenium specifically
